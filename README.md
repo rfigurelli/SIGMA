@@ -1,4 +1,4 @@
-# What If Market Analytics Could Think? Introducing SIGMA
+# What If Market Analytics Could Think? Introducing SIGMA 
 
 **White Paper v1.0**  
 **Author:** Rogério Figurelli  
